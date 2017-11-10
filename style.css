@@ -1,0 +1,53 @@
+body
+{
+    /* font-family: "Lobster"; */
+    background-color: #006400;
+    font-family: Courier, monospace;
+    color: white;
+}
+
+.container-fluid
+{
+    padding-top: 200px;
+}
+
+#box 
+{
+    width: 800px;
+    height: 550px;
+    margin: 0 auto;
+    border-radius: 5px;
+    color: #006400;
+    background-color: white;
+    padding: 2%;
+}
+
+#top
+{
+    height: 400px;
+}
+
+#btn-1 
+{
+    color: #006400;
+    float: right;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+#quote-author
+{
+    font-style: italic;
+    text-align: right;
+}
+
+.links
+{
+    float: left;
+}
+
+#author
+{
+    margin-top: 20px;
+}
